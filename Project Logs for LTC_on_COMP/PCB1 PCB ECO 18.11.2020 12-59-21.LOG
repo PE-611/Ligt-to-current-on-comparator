@@ -1,0 +1,112 @@
+Change Component DesignItemId : Designator=R6 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R10 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R18 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R22 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R26 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R30 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R34 Old DesignItemId=Resistor_1206 New DesignItemId=Resistor_0805
+Change Component Footprint: Designator=R6 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R10 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R14 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R18 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R22 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R26 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R30 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Footprint: Designator=R34 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Comment : Designator=R6 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R10 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R14 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R18 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R22 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R26 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R30 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change Component Comment : Designator=R34 Old Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Change component parameters: Designator = "R6" ("R4"); Footprint = "RES: 1206"; UniqueID = "\YAKNQMMH\YRAVKZDU" ("\YAKNQMMH\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R4"); Footprint = "RES: 1206"; UniqueID = "\LRFMXPGH\YRAVKZDU" ("\LRFMXPGH\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R4"); Footprint = "RES: 1206"; UniqueID = "\DHHYSEQG\YRAVKZDU" ("\DHHYSEQG\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R4"); Footprint = "RES: 1206"; UniqueID = "\DPPQOKHT\YRAVKZDU" ("\DPPQOKHT\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R4"); Footprint = "RES: 1206"; UniqueID = "\JNPGAQWF\YRAVKZDU" ("\JNPGAQWF\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R4"); Footprint = "RES: 1206"; UniqueID = "\TGWZDDXI\YRAVKZDU" ("\TGWZDDXI\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R4"); Footprint = "RES: 1206"; UniqueID = "\UTSNLXFB\YRAVKZDU" ("\UTSNLXFB\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R4"); Footprint = "RES: 1206"; UniqueID = "\EHDNEPCM\YRAVKZDU" ("\EHDNEPCM\YRAVKZDU")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"

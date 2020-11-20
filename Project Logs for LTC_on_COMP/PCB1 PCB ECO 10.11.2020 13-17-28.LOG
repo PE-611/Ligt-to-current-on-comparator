@@ -1,0 +1,86 @@
+Removed Member From Class: ClassName=SCH2 Member=C2
+Removed Member From Class: ClassName=SCH2 Member=D2
+Removed Member From Class: ClassName=SCH1 Member=R6
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C10
+Change Component Designator: OldDesignator=D2 NewDesignator=D9
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC10_2
+Added Member To Class: ClassName=SCH1 Member=Component C1_SCH1 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component C1_SCH2 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component C1_SCH3 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component C1_SCH4 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component C1_SCH5 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component C1_SCH6 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component C1_SCH7 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component C1_SCH8 (C1) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SUP Member=Component C9 (C2) Ceramic capacitor, 1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SUP Member=Component C10 (C3) Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component D1_SCH1 (D1) TLV3501
+Added Member To Class: ClassName=SCH2 Member=Component D1_SCH2 (D1) TLV3501
+Added Member To Class: ClassName=SCH3 Member=Component D1_SCH3 (D1) TLV3501
+Added Member To Class: ClassName=SCH4 Member=Component D1_SCH4 (D1) TLV3501
+Added Member To Class: ClassName=SCH5 Member=Component D1_SCH5 (D1) TLV3501
+Added Member To Class: ClassName=SCH6 Member=Component D1_SCH6 (D1) TLV3501
+Added Member To Class: ClassName=SCH7 Member=Component D1_SCH7 (D1) TLV3501
+Added Member To Class: ClassName=SCH8 Member=Component D1_SCH8 (D1) TLV3501
+Added Member To Class: ClassName=SUP Member=Component D9 (D2) L78L05ABD
+Added Member To Class: ClassName=SCH1 Member=Component R1_SCH1 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component R1_SCH2 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component R1_SCH3 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component R1_SCH4 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component R1_SCH5 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component R1_SCH6 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component R1_SCH7 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component R1_SCH8 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=REF Member=Component R1 (R5) Resistor film, 27k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component R2_SCH1 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component R2_SCH2 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component R2_SCH3 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component R2_SCH4 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component R2_SCH5 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component R2_SCH6 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component R2_SCH7 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component R2_SCH8 (R2) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=REF Member=Component R2 (R6) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component R3_SCH1 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component R3_SCH2 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component R3_SCH3 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component R3_SCH4 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component R3_SCH5 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component R3_SCH6 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component R3_SCH7 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component R3_SCH8 (R3) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component R4_SCH1 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component R4_SCH2 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component R4_SCH3 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component R4_SCH4 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component R4_SCH5 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component R4_SCH6 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component R4_SCH7 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component R4_SCH8 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component VD1_SCH1 (VD1) SHF250
+Added Member To Class: ClassName=SCH2 Member=Component VD1_SCH2 (VD1) SHF250
+Added Member To Class: ClassName=SCH3 Member=Component VD1_SCH3 (VD1) SHF250
+Added Member To Class: ClassName=SCH4 Member=Component VD1_SCH4 (VD1) SHF250
+Added Member To Class: ClassName=SCH5 Member=Component VD1_SCH5 (VD1) SHF250
+Added Member To Class: ClassName=SCH6 Member=Component VD1_SCH6 (VD1) SHF250
+Added Member To Class: ClassName=SCH7 Member=Component VD1_SCH7 (VD1) SHF250
+Added Member To Class: ClassName=SCH8 Member=Component VD1_SCH8 (VD1) SHF250
+Added Member To Class: ClassName=SCH1 Member=Component VT1_SCH1 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH2 Member=Component VT1_SCH2 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH3 Member=Component VT1_SCH3 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH4 Member=Component VT1_SCH4 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH5 Member=Component VT1_SCH5 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH6 Member=Component VT1_SCH6 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH7 Member=Component VT1_SCH7 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH8 Member=Component VT1_SCH8 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=SCH1 Member=Component X1_SCH1 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH2 Member=Component X1_SCH2 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH3 Member=Component X1_SCH3 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH4 Member=Component X1_SCH4 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH5 Member=Component X1_SCH5 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH6 Member=Component X1_SCH6 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH7 Member=Component X1_SCH7 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH8 Member=Component X1_SCH8 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A

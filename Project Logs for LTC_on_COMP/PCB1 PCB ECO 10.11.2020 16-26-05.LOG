@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Member From Class: ClassName=SUP Member=X1
+Added Member To Class: ClassName=SCH1 Member=Component R3 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH2 Member=Component R7 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH3 Member=Component R11 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH4 Member=Component R15 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH5 Member=Component R19 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH6 Member=Component R23 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH7 Member=Component R27 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH8 Member=Component R31 (R1) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=SCH1 Member=Component VD1 SHF250
+Added Member To Class: ClassName=SCH2 Member=Component VD2 (VD1) SHF250
+Added Member To Class: ClassName=SCH3 Member=Component VD3 (VD1) SHF250
+Added Member To Class: ClassName=SCH4 Member=Component VD4 (VD1) SHF250
+Added Member To Class: ClassName=SCH5 Member=Component VD5 (VD1) SHF250
+Added Member To Class: ClassName=SCH6 Member=Component VD6 (VD1) SHF250
+Added Member To Class: ClassName=SCH7 Member=Component VD7 (VD1) SHF250
+Added Member To Class: ClassName=SCH8 Member=Component VD8 (VD1) SHF250
+Added Member To Class: ClassName=SCH1 Member=Component X2 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH2 Member=Component X3 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH3 Member=Component X4 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH4 Member=Component X5 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH5 Member=Component X6 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH6 Member=Component X7 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH7 Member=Component X8 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=SCH8 Member=Component X9 (X1) Terminal connector, 2pin, 3.5mm, 300VAC, 10A

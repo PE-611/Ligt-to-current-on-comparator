@@ -1,0 +1,129 @@
+Change Component Designator: OldDesignator=C1_SCH1 NewDesignator=C1
+Change Component Designator: OldDesignator=C1_SCH2 NewDesignator=C2
+Change Component Designator: OldDesignator=C1_SCH3 NewDesignator=C3
+Change Component Designator: OldDesignator=C1_SCH4 NewDesignator=C4
+Change Component Designator: OldDesignator=C1_SCH5 NewDesignator=C5
+Change Component Designator: OldDesignator=C1_SCH6 NewDesignator=C6
+Change Component Designator: OldDesignator=C1_SCH7 NewDesignator=C7
+Change Component Designator: OldDesignator=C1_SCH8 NewDesignator=C8
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C10
+Change Component Designator: OldDesignator=D1_SCH1 NewDesignator=D1
+Change Component Designator: OldDesignator=D1_SCH2 NewDesignator=D2
+Change Component Designator: OldDesignator=D1_SCH3 NewDesignator=D3
+Change Component Designator: OldDesignator=D1_SCH4 NewDesignator=D4
+Change Component Designator: OldDesignator=D1_SCH5 NewDesignator=D5
+Change Component Designator: OldDesignator=D1_SCH6 NewDesignator=D6
+Change Component Designator: OldDesignator=D1_SCH7 NewDesignator=D7
+Change Component Designator: OldDesignator=D1_SCH8 NewDesignator=D8
+Change Component Designator: OldDesignator=D2 NewDesignator=D9
+Change Component Designator: OldDesignator=R1_SCH1 NewDesignator=R3
+Change Component Designator: OldDesignator=R1_SCH2 NewDesignator=R7
+Change Component Designator: OldDesignator=R1_SCH3 NewDesignator=R11
+Change Component Designator: OldDesignator=R1_SCH4 NewDesignator=R15
+Change Component Designator: OldDesignator=R1_SCH5 NewDesignator=R19
+Change Component Designator: OldDesignator=R1_SCH6 NewDesignator=R23
+Change Component Designator: OldDesignator=R1_SCH7 NewDesignator=R27
+Change Component Designator: OldDesignator=R1_SCH8 NewDesignator=R31
+Change Component Designator: OldDesignator=R2_SCH1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2_SCH2 NewDesignator=R8
+Change Component Designator: OldDesignator=R2_SCH3 NewDesignator=R12
+Change Component Designator: OldDesignator=R2_SCH4 NewDesignator=R16
+Change Component Designator: OldDesignator=R2_SCH5 NewDesignator=R20
+Change Component Designator: OldDesignator=R2_SCH6 NewDesignator=R24
+Change Component Designator: OldDesignator=R2_SCH7 NewDesignator=R28
+Change Component Designator: OldDesignator=R2_SCH8 NewDesignator=R32
+Change Component Designator: OldDesignator=R3_SCH1 NewDesignator=R5
+Change Component Designator: OldDesignator=R3_SCH2 NewDesignator=R9
+Change Component Designator: OldDesignator=R3_SCH3 NewDesignator=R13
+Change Component Designator: OldDesignator=R3_SCH4 NewDesignator=R17
+Change Component Designator: OldDesignator=R3_SCH5 NewDesignator=R21
+Change Component Designator: OldDesignator=R3_SCH6 NewDesignator=R25
+Change Component Designator: OldDesignator=R3_SCH7 NewDesignator=R29
+Change Component Designator: OldDesignator=R3_SCH8 NewDesignator=R33
+Change Component Designator: OldDesignator=R4_SCH1 NewDesignator=R6
+Change Component Designator: OldDesignator=R4_SCH2 NewDesignator=R10
+Change Component Designator: OldDesignator=R4_SCH3 NewDesignator=R14
+Change Component Designator: OldDesignator=R4_SCH4 NewDesignator=R18
+Change Component Designator: OldDesignator=R4_SCH5 NewDesignator=R22
+Change Component Designator: OldDesignator=R4_SCH6 NewDesignator=R26
+Change Component Designator: OldDesignator=R4_SCH7 NewDesignator=R30
+Change Component Designator: OldDesignator=R4_SCH8 NewDesignator=R34
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=VD1_SCH1 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD1_SCH2 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD1_SCH3 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD1_SCH4 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD1_SCH5 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD1_SCH6 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD1_SCH7 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD1_SCH8 NewDesignator=VD8
+Change Component Designator: OldDesignator=VT1_SCH1 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT1_SCH2 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT1_SCH3 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT1_SCH4 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT1_SCH5 NewDesignator=VT5
+Change Component Designator: OldDesignator=VT1_SCH6 NewDesignator=VT6
+Change Component Designator: OldDesignator=VT1_SCH7 NewDesignator=VT7
+Change Component Designator: OldDesignator=VT1_SCH8 NewDesignator=VT8
+Change Component Designator: OldDesignator=X1_SCH1 NewDesignator=X1
+Change Component Designator: OldDesignator=X1_SCH2 NewDesignator=X2
+Change Component Designator: OldDesignator=X1_SCH3 NewDesignator=X3
+Change Component Designator: OldDesignator=X1_SCH4 NewDesignator=X4
+Change Component Designator: OldDesignator=X1_SCH5 NewDesignator=X5
+Change Component Designator: OldDesignator=X1_SCH6 NewDesignator=X6
+Change Component Designator: OldDesignator=X1_SCH7 NewDesignator=X7
+Change Component Designator: OldDesignator=X1_SCH8 NewDesignator=X8
+Change Net Name : Old Net Name=NetC1_SCH1_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetD1_SCH1_3 New Net Name=NetD1_3
+Change Net Name : Old Net Name=NetD1_SCH1_5 New Net Name=NetD1_5
+Change Net Name : Old Net Name=NetD1_SCH2_3 New Net Name=NetD2_3
+Change Net Name : Old Net Name=NetD1_SCH2_5 New Net Name=NetD2_5
+Change Net Name : Old Net Name=NetD1_SCH3_3 New Net Name=NetD3_3
+Change Net Name : Old Net Name=NetD1_SCH3_5 New Net Name=NetD3_5
+Change Net Name : Old Net Name=NetD1_SCH4_3 New Net Name=NetD4_3
+Change Net Name : Old Net Name=NetD1_SCH4_5 New Net Name=NetD4_5
+Change Net Name : Old Net Name=NetD1_SCH5_3 New Net Name=NetD5_3
+Change Net Name : Old Net Name=NetD1_SCH5_5 New Net Name=NetD5_5
+Change Net Name : Old Net Name=NetD1_SCH6_3 New Net Name=NetD6_3
+Change Net Name : Old Net Name=NetD1_SCH6_5 New Net Name=NetD6_5
+Change Net Name : Old Net Name=NetD1_SCH7_3 New Net Name=NetD7_3
+Change Net Name : Old Net Name=NetD1_SCH7_5 New Net Name=NetD7_5
+Change Net Name : Old Net Name=NetD1_SCH8_3 New Net Name=NetD8_3
+Change Net Name : Old Net Name=NetD1_SCH8_5 New Net Name=NetD8_5
+Change Net Name : Old Net Name=NetR1_SCH1_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR1_SCH2_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR1_SCH3_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR1_SCH4_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR1_SCH5_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR1_SCH6_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR1_SCH7_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR1_SCH8_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR2_SCH1_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR2_SCH2_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR2_SCH3_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR2_SCH4_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR2_SCH5_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR2_SCH6_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR2_SCH7_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR2_SCH8_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetVT1_SCH1_3 New Net Name=NetVT1_3
+Change Net Name : Old Net Name=NetVT1_SCH2_3 New Net Name=NetVT2_3
+Change Net Name : Old Net Name=NetVT1_SCH3_3 New Net Name=NetVT3_3
+Change Net Name : Old Net Name=NetVT1_SCH4_3 New Net Name=NetVT4_3
+Change Net Name : Old Net Name=NetVT1_SCH5_3 New Net Name=NetVT5_3
+Change Net Name : Old Net Name=NetVT1_SCH6_3 New Net Name=NetVT6_3
+Change Net Name : Old Net Name=NetVT1_SCH7_3 New Net Name=NetVT7_3
+Change Net Name : Old Net Name=NetVT1_SCH8_3 New Net Name=NetVT8_3
+Added Room: Name=REF
+Added Room: Name=SCH1
+Added Room: Name=SCH2
+Added Room: Name=SCH3
+Added Room: Name=SCH4
+Added Room: Name=SCH5
+Added Room: Name=SCH6
+Added Room: Name=SCH7
+Added Room: Name=SCH8
+Added Room: Name=SUP
